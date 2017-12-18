@@ -17,8 +17,9 @@
     "url": "https://github.com/BuildingConnected/interviews/issues"
   },
   "dependencies": {
-    "faker": "^4.1.0",
+    "Faker": "^0.7.2",
     "bluebird": "^3.5.1",
+    "faker": "^4.1.0",
     "lodash": "^4.17.4"
   },
   "devDependencies": {
